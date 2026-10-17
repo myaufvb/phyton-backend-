@@ -1,6 +1,4 @@
 
-print("MASALALAR")
-
 birinchi_son = float(input("Birinchi son: "))
 amal = input("Amal (+, -, *, /): ")
 ikkinchi_son = float(input("Ikkinchi son: "))
@@ -25,7 +23,7 @@ else:
 
 
 
-print("\n=== Masala 2: Chegirma hisoblash ===")
+
 
 summa = float(input("Xarid summasi: "))
 
@@ -48,7 +46,7 @@ print("To'lov:", format(tolov, ",.0f"), "so'm")
 
 
 
-print("\n=== Masala 3: Yosh toifasi ===")
+
 
 yosh = int(input("Yoshingiz: "))
 
@@ -65,7 +63,7 @@ else:
 
 
 
-print("\n=== Masala 4: Svetofor ===")
+
 
 rang = input("Svetofor rangi: ").lower()
 
@@ -80,7 +78,7 @@ else:
 
 
 
-print("\n=== Masala 5: Kun vaqtiga qarab salom ===")
+
 
 soat = int(input("Soat (0-23): "))
 
