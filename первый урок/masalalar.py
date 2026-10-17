@@ -1,5 +1,5 @@
 
-print("=== Masala 1: Kalkulyator ===")
+print("MASALALAR")
 
 birinchi_son = float(input("Birinchi son: "))
 amal = input("Amal (+, -, *, /): ")
